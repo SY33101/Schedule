@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="notification_channel_name">日程响铃提醒</string>
+    <string name="notification_channel_description">在日程到点时亮屏、响铃或震动</string>
+    <string name="alarm_stop">停止提醒</string>
+</resources>
+

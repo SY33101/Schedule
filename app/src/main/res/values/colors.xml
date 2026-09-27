@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="schedule_primary">#536DFE</color>
+    <color name="schedule_primary_dark">#3D52D5</color>
+    <color name="schedule_background">#F7F8FC</color>
+    <color name="schedule_surface">#FFFFFF</color>
+    <color name="schedule_text">#182034</color>
+    <color name="schedule_text_secondary">#6C7485</color>
+    <color name="schedule_danger">#E95C5C</color>
+</resources>
+

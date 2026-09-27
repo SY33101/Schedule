@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+.syntaxcheck/
+signing/
+*.keystore
+*.jks
+*.apk
+*.idsig
+*.class
